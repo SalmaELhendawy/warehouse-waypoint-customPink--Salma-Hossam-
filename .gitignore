@@ -1,0 +1,22 @@
+# ROS / colcon generated folders
+build/
+install/
+log/
+
+# Editor / OS noise
+.vscode/
+.idea/
+.DS_Store
+*.swp
+*.swo
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# ROS msg generated files (keep source packages tracked explicitly)
+*.bag
+*.db3
+
+# Local environment
+.env
