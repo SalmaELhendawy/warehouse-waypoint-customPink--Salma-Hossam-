@@ -358,6 +358,6 @@ Narrated video of the complete project (custom robot spawn in the warehouse, SLA
 
 
 
-
+https://github.com/user-attachments/assets/617b2e1e-70ad-4024-b81d-34fb6b98a5c4
 
 
